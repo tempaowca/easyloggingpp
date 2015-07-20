@@ -6,3 +6,10 @@ libmyLib.so
 logs/*
 myapp
 
+lib/libmyLib2.so
+lib/mylib2.o
+lib/myLib2.a
+myLib2.a
+libmyLib2.so
+
+myapp2
